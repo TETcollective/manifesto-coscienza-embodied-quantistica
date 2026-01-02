@@ -3,7 +3,7 @@ Manifesto della Coscienza Embodied Quantistica di Simon Soliman (TET Collective)
 
 # Manifesto della Coscienza Embodied Quantistica
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI] https://doi.org/10.5281/zenodo.18128482
 
 Manifesto di **Simon Soliman** (TET Collective).  
 Modello di coscienza quantistica embodied: gravità emergente, microtubuli, sistemi sensoriali, predictive processing, CEMI field e implicazioni mediche/robotiche.
