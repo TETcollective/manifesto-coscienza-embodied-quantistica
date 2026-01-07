@@ -26,8 +26,19 @@ $$
 - **[Manifesto_della_Coscienza_Embodied_Quantistica_V2_5_1.pdf](Manifesto_della_Coscienza_Embodied_Quantistica_V2_5_1.pdf)**  
   → **V2.5.1** · 18 pagine · Versione integrata con Protocollo di Longevità Radicale
 
-## Licenza
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+## Copyright and Usage Rights
+
+© 2026 TET Collective, Rome, Italy. **All Rights Reserved.**
+
+This repository previously contained a Creative Commons CC BY-NC 4.0 license file, which is hereby **revoked and superseded**.
+
+From now on, this work (paper, figures, data, code, and all contents) is fully protected by copyright. No open license is granted.
+
+Any use beyond personal reading and fair use/fair dealing (e.g., short academic quotations with proper citation) requires **explicit written permission** from the author.
+
+Contact: tetcollective@proton.me
+
+The primordial three-leaf clover knot calls for conscious and authorized engagement only ✨
 
 ## Contatti
 https://tetcollective.org · ORCID: 0009-0002-3533-3772
